@@ -1,12 +1,11 @@
-<<<<<<< HEAD
-# vocabulary_test_app
-Rebuild of Vocabulary App
-=======
-# test_app
+This is a rebuild of Vocabulary App, done as a test progect. Design and some elements were changed.
 
-A new Flutter project.
+Task 2:
+* In my opinion onboarding is too drawn out. It takes too much time and gives nothing to user. I suggest to implemet some of these questions into the main scrolling screen and olso add mor information about how to use the app.
+* I think the app needs to implement some tests to practice words not only by memorizing words, but also by remembering words which you already seen.
 
-## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
